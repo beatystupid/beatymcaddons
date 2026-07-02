@@ -2,6 +2,7 @@
 
 ## Important:
 Please download via Modrinth for easier access.
+https://modrinth.com/mod/beaty-addons
 
 ## About the Mod
 Beaty Addons is a silly little mod I made that adds a bunch of Beaty items, achievements, a new ore type, and stuff like that! For example, there is a new block called a Beaty, and it's just a Beaty, or the Beaty Block, which is, well, a block of Beaty.
